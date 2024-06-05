@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
-.3{background-color:green}
-#2{background-color:blue;}
-#1{background-color:red;}
-.holder{display:flex;justify-content:space-between;font-size:70px;}
+.holder{align-items:flex-start;display:flex;justify-content:space-between;font-size:70px;}
+.item{padding:50px;}
+#red{background-color:red;}
+#green{background-color:green;align-items:flex-start;}
+	   #blue{background-color:blue;}
