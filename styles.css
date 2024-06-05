@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.holder{align-items:flex-start;display:flex;justify-content:space-between;font-size:70px;}
+body{flex-wrap:wrap}.holder{align-items:flex-start;display:flex;justify-content:space-between;font-size:70px;}
 .item{padding:50px;}
 #red{background-color:red;}
 #green{background-color:green;align-items:flex-start;}
